@@ -1,1 +1,1 @@
-# HTML-Crash-Course
+# my first ever "website" with frontend simplified
